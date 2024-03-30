@@ -1,0 +1,133 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-11-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number: 34
+[1, 2, 17]
+
+Enter a number: 55
+[1, 5, 11]
+
+Enter a number: 6567
+[1, 3, 11, 33, 199, 597, 2189]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number : 1
+Enter a positive number : 2
+Enter a positive number : 3
+Enter a positive number : -1
+Enter a positive number : -2
+Enter a positive number : 0
+[1, 2, 3]
+
+Enter a positive number : -1
+Enter a positive number : -5
+Enter a positive number : -4
+Enter a positive number : 0
+[]
+
+Enter a positive number : 10
+Enter a positive number : -2
+Enter a positive number : 1
+Enter a positive number : 1
+Enter a positive number : 0
+[10, 1, 1]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a positive number : 7
+Enter a positive number : 7
+Enter a positive number : 8
+Enter a positive number : 9
+Enter a positive number : 0
+[7, 7, 8, 9]
+Enter target number: 7
+[0, 1]
+
+Enter a positive number : 1
+Enter a positive number : 2
+Enter a positive number : 5
+Enter a positive number : 4
+Enter a positive number : 0
+[1, 2, 5, 4]
+Enter target number: 5
+[2]
+
+Enter a positive number : 2
+Enter a positive number : 3
+Enter a positive number : 4
+Enter a positive number : 6
+Enter a positive number : 6
+Enter a positive number : 0
+[2, 3, 4, 6, 6]
+Enter target number: 6
+[3, 4]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a positive number : 5
+Enter a positive number : 6
+Enter a positive number : 7
+Enter a positive number : 8
+Enter a positive number : 9
+Enter a positive number : 0
+[5, 6, 7, 8, 9]
+Enter a positive number : 5
+Enter a positive number : 8
+Enter a positive number : 0
+[5, 8]
+minuend after: [6, 7, 9]
+
+Enter a positive number : 1
+Enter a positive number : 2
+Enter a positive number : 3
+Enter a positive number : 4
+Enter a positive number : 0
+[1, 2, 3, 4]
+Enter a positive number : 4
+Enter a positive number : 0
+[4]
+minuend after: [1, 2, 3]
+
+Enter a positive number : 5
+Enter a positive number : 4
+Enter a positive number : 6
+Enter a positive number : 0
+[5, 4, 6]
+Enter a positive number : 0
+[]
+minuend after: [5, 4, 6]
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a positive number : 10
+Enter a positive number : 9
+Enter a positive number : 8
+Enter a positive number : 0
+[10,9,8]
+False,2
+
+Enter a positive number : 9
+Enter a positive number : 10
+Enter a positive number : 11
+Enter a positive number : 0
+[9,10,11]
+True,-1
+
+Enter a positive number : 1
+Enter a positive number : 2
+Enter a positive number : 4
+Enter a positive number : 3
+Enter a positive number : 0
+[1, 2, 4, 3]
+False,3

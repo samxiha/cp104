@@ -1,0 +1,84 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-11-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 44
+Too high, try again.
+Guess: 30
+Too high, try again.
+Guess: 10
+Too low, try again
+Guess: 20
+Too high, try again.
+Guess: 15
+Too high, try again.
+Guess: 12
+Too low, try again
+Guess: 11
+Too low, try again
+Guess: 13
+Congratulations - good guess!
+You made 8 guesses.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a number: 7
+8
+
+Enter a number: 367
+512
+
+Enter a number: 54
+64
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First positive value: 5
+Next positive value: 6
+Next positive value: 8
+Next positive value: -1
+(5.0,8.0,19.0,6.333333333333333)
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Day 1
+
+How much was breakfast? $10
+How much was lunch? $11
+How much was supper? $12
+Your total for the day was $33.0
+
+Were you away another day (Y/N)? Y
+Day 2
+
+How much was breakfast? $12
+How much was lunch? $15
+How much was supper? $21
+Your total for the day was $48.0
+
+Were you away another day (Y/N)? N
+(22.0, 26.0, 33.0, 81.0)
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 321
+Hourly wage rate: 20
+Hours worked: 44
+Net payment for employee 321: $886.65
+
+Employee ID: 121
+Hourly wage rate: 40
+Hours worked: 39
+Net payment for employee 121: $1503.45
+
+Employee ID: 0
+(2390.1,1195.05)

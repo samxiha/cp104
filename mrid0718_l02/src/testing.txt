@@ -1,0 +1,91 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-09-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Temperature (F): -40
+Temperature (C):  -40.0
+
+Temperature (F): 90
+Temperature (C):  32.22222222222222
+
+Temperature (F): 50
+Temperature (C):  10.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Number of large dogs groomed: 12
+Number of small dogs groomed: 9
+Total earned for the day: $ 1350
+
+Number of large dogs groomed: 19
+Number of small dogs groomed: 3
+Total earned for the day: $ 1575
+
+Number of large dogs groomed: 10
+Number of small dogs groomed: 5
+Total earned for the day: $ 1000
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+The monthly payments are:  1319.9114784333174
+
+Mortgage principal ($): 30000
+Number of years: 3
+Yearly interest rate (%): 7
+The monthly payments are:  926.3129059611549
+
+Mortgage principal ($): 900
+Number of years: 5
+Yearly interest rate (%): 4
+The monthly payments are:  16.574869849739375
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Number of flyers: 10000
+Number of volunteers: 22
+Flyers per volunteer:  454
+Flyers left over:  12
+
+Number of flyers: 9089
+Number of volunteers: 54
+Flyers per volunteer:  168
+Flyers left over:  17
+
+Number of flyers: 789
+Number of volunteers: 2
+Flyers per volunteer:  394
+Flyers left over:  1
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+Enter projected annual sales: 30000
+The projected profit on sales of $ 30000.0  is $ 5400.0
+
+Enter projected annual sales: 45600
+The projected profit on sales of $ 45600.0  is $ 8208.0
+
+Enter projected annual sales: 78478
+The projected profit on sales of $ 78478.0  is $ 14126.039999999999
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Number of seconds: 105050
+Days: 1 Hours: 5 Minutes: 10 Seconds: 50
+
+Number of seconds: 67890
+Days: 0 Hours: 18 Minutes: 51 Seconds: 30
+
+Number of seconds: 464492839
+Days: 5376 Hours: 1 Minutes: 47 Seconds: 19

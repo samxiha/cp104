@@ -1,0 +1,80 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-10-19
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter area in square feet: 2234
+footage_to_acres(2234.0) -> 0.05128558310376492
+
+Enter area in square feet: 238
+footage_to_acres(238.0) -> 0.005463728191000918
+
+Enter area in square feet: 780
+footage_to_acres(780.0) -> 0.01790633608815427
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter width: 3
+Enter length: 5
+Enter speed: 7
+lawn_mow_time(3.0,5.0,7.0) -> 2.142857142857143
+
+Enter width: 7
+Enter length: 8
+Enter speed: 1
+lawn_mow_time(7.0,8.0,1.0) -> 56.0
+
+Enter width: 10
+Enter length: 30
+Enter speed: 5
+lawn_mow_time(10.0,30.0,5.0) -> 60.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 19980719
+extract_date(19980719) -> (1998, 07, 19)
+
+Enter a date in the format YYYYMMDD: 20050815
+extract_date(20050815) -> (2005, 08, 15)
+
+Enter a date in the format YYYYMMDD: 20200101
+extract_date(20200101) -> (2020, 01, 01)
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Numerator of first fraction: 11
+Denominator of first fraction: 11
+Numerator of second fraction: 12
+Denominator of second fraction: 13
+multiply_fractions(11,11,12,13) -> (132, 143, 0.9230769230769231)
+
+Numerator of first fraction: 1
+Denominator of first fraction: 5
+Numerator of second fraction: 4
+Denominator of second fraction: 3
+multiply_fractions(1,5,4,3) -> (4, 15, 0.26666666666666666)
+
+Numerator of first fraction: 2
+Denominator of first fraction: 4
+Numerator of second fraction: 1
+Denominator of second fraction: 1
+multiply_fractions(2,4,1,1) -> (2, 4, 0.5)
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Falling time: 22
+falling_distance(22) -> 2371.6000000000004
+
+Falling time: 10
+falling_distance(10) -> 490.00000000000006
+
+Falling time: 19
+falling_distance(19) -> 1768.9

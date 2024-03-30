@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-11-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter sentence: MyNameIsSam
+My name is sam
+
+Enter sentence: ThisIsMyCode
+This is my code
+
+Enter sentence: TestingThisCodeAgain.
+Testing this code again.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+String: baby
+babies
+
+String: flower
+flowers
+
+String: replay
+replays
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+String 1: friday
+String 2: birthday
+day
+
+String 1: money
+String 2: bunny
+y
+
+String 1: fairy
+String 2: chips
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+ISBN: 999-4-567-547-0
+False
+
+ISBN: 978-4-4567-1245-0
+True
+
+ISBN: 567-4-4567-1245-0
+False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a list of words separated by spaces: happy yogurt tree energy
+True
+
+Enter a list of words separated by spaces: flower vase stem grass
+False
+
+Enter a list of words separated by spaces: bass sass soon new wind
+True

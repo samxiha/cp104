@@ -1,0 +1,74 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-10-28
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter day number: 5
+Thursday
+
+Enter day number: 22
+Error
+
+Enter day number: 7
+Saturday
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter AQI: 89
+Moderate
+
+Enter AQI: -1
+Error
+
+Enter AQI: 555
+Hazardous
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter value: 3
+Enter value: 7
+Enter value: 8
+7.5
+
+Enter value: -98
+Enter value: 1.5
+Enter value: -11
+-4.75
+
+Enter value: 0.1
+Enter value: -11
+Enter value: 98
+49.05
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+First primary colour: blue
+Second primary colour: yellow
+Error
+
+First primary colour: green
+Second primary colour: blue
+aqua
+
+First primary colour: red
+Second primary colour: blue
+fuchsia
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 45
+Zip
+
+Enter a number: 14
+Hoo Rah
+
+Enter a number: 12
+Hoo

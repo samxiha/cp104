@@ -1,0 +1,65 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Samiha
+ID:      169060718
+Email:   mrid0718@mylaurier.ca
+Version: 2023-11-16
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Chemical name: BaOH
+True
+
+Chemical name: NaCl
+False
+
+Chemical name: H2O
+False
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter code: ATV3482S14
+True, True, True
+
+Enter code: hgH8945T
+False, True, True
+
+Enter code: hgy45t
+False, False, False
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter string: aetry
+2
+
+Enter string: ballroom
+3
+
+Enter string: airplane
+4
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter text: Analyze the various aspects of this code
+1, 33, 0, 6
+
+Enter text: Sally Has 3 Dogs
+3, 9, 1, 3
+
+Enter text: Calculation of 44 X 54
+2, 12, 4, 4
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Enter string: ,hi,bye,
+.hi.bye.
+
+Enter string: a,e,i,o,u,y
+a.e.i.o.u.y
+
+Enter string: here,outside,inside,,,
+here.outside.inside...
